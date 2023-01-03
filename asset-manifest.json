@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/redux-fundamentals/static/css/main.b343f371.css",
+    "main.js": "/redux-fundamentals/static/js/main.f27beb71.js",
+    "index.html": "/redux-fundamentals/index.html",
+    "static/media/times-solid.svg": "/redux-fundamentals/static/media/times-solid.dc24ef652734a3143dc7179604e15a08.svg",
+    "main.b343f371.css.map": "/redux-fundamentals/static/css/main.b343f371.css.map",
+    "main.f27beb71.js.map": "/redux-fundamentals/static/js/main.f27beb71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b343f371.css",
+    "static/js/main.f27beb71.js"
+  ]
+}
